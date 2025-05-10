@@ -1,3 +1,6 @@
+- 👉 [ENGLISH](https://github.com/VannsanNin/ImportExport/blob/main/README.md)
+- 👉 [KHMER](https://github.com/VannsanNin/ImportExport/blob/main/KHMER.md)
+
 # Understanding Imports and Exports in React JS
 
 Imports and exports are fundamental to modern JavaScript development, particularly in React applications. They allow you to write modular code by breaking it into separate files that can reference each other.
