@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Card title="Math Operations">
-        <Button onClick={() => setResult(add(3, 4))}>Add 3 + 4</Button>
+        <Button onClick={() => setResult(add(3, 4))}>Add សដថសថសដ 3 + 4</Button>
         <Button onClick={() => setResult(subtract(10, 5))}>
           Subtract 10 - 5
         </Button>
